@@ -20,7 +20,7 @@ Automated trading between two devices
 # Requirements:
 An Android device\
 A USB cable\
-Pokemon GO
+Pokemon GO\
 Scrcpy
 
 # Initial setup:
