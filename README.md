@@ -10,6 +10,7 @@ A lot of time and effort has been spent to create and improve this program.\
 If you find this in any way helpful, please consider supporting this program via the embedded link.
 
 # Features:
+![Interface](https://github.com/PokeGrinderDev/Version-1.0/assets/149118750/348d0b01-ea85-4a7e-b2bf-7ca81d500f0d)\
 Automated spinning of pokestops and gyms\
 Automated sending of gifts to friends\
 Automated leveling of buddies\
